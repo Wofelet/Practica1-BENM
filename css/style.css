@@ -9,7 +9,7 @@ html{
 }
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
 }
 
 .contenedor{
@@ -19,4 +19,19 @@ body{
     margin: auto;
     width: 100% !important;
     height: 100vh;
+}
+
+.parrafo_justificado{
+    text-align: justify;
+}
+
+.parrafo_centrado{
+    text-align: center;
+}
+
+.mensaje{
+    color: rgb(223, 33, 64);
+    font-style: italic;
+    font-weight: hold;
+    text-align: center;
 }
